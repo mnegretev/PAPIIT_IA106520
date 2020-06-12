@@ -1,0 +1,5 @@
+<launch>
+  <include file="$(find autonomos_gazebo_simulation)/launch/curved_road.launch"/>
+  <node name="rviz" pkg="rviz" type="rviz"/>
+  <node name="lane_detector" pkg="lane_detector" type="lane_detector.py" output="screen"/>
+</launch>
