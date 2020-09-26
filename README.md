@@ -5,10 +5,10 @@ Hasta el momento se ha desarrollado un simulador en el que se han probado divers
 
 ### Simulador del Vehículo a Escala
 Se desarrolló un simulador para el vehículo a escala autoNOMOS partiendo del simulador desarrollado el ITAM (https://github.com/ITAM-Robotica/Eagle_Knights-Wiki/wiki/autonomos-gazebo). La siguiente imagen muestra un ejemplo de este simulador. 
-<img src="https://github.com/mnegretev/PAPIME_PE112120/blob/master/Media/StarGazer.png" alt="Star Gazer App" width="640"/>
+<img src="https://github.com/mnegretev/PAPIIT_IA106520/blob/master/documentation/figures/GazeboExample.png" alt="Star Gazer App" width="640"/>
 
 ### Algoritmos de Visión Computacional
 Se han probado varios algoritmos para la detección de carriles. Las pruebas se hicieron utilizando el simulador descrito. Las siguientes imágenes muestran ejemplos de los resultados obtenidos. 
-<img src="https://github.com/mnegretev/PAPIME_PE112120/blob/master/Media/TestMaps2.png" alt="Star Gazer App" width="300"/>
+<img src="https://github.com/mnegretev/PAPIIT_IA106520/blob/master/documentation/figures/LaneSegmentation.png" alt="Star Gazer App" width="640"/>
 
 Los códigos fuente de las aplicaciones, así como otros materiales, se encuentran en este repositorio. 
