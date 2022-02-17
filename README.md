@@ -2,7 +2,7 @@
 
 Este repositorio contiene los entregables del reporte final del proyecto PAPIIT IA106520 "Visión activa y robótica basada en comportamientos en el desarrollo de vehículos autónomos".
 Los entregables son los que se listan a continuación:
-* Tesis
+* Tesis y tesinas
   * Diseño y construcción de ambientes en el simulador de robots Gazebo para vehículos sin conductor (resultado directo, concluído)
   * Navegación autónoma para un vehículo sin conductor usando el simulador Webots (resultado directo, en desarrollo)
   * Desarrollo de interfaz cerebro computadora para robots de servicio doméstico (resultado directo, en desarrollo)
